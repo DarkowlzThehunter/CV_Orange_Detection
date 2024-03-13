@@ -6,6 +6,7 @@ This project focuses on detecting oranges in both images and videos using comput
 ## Contents
 
 - `CV_Orange_Detection_Pic.ipynb`: Jupyter Notebook for detecting oranges in a picture.
+- `CV_Orange_Detection_Pic.py`: Python script for detecting oranges in a picture.
 - `CV_Orange_Detection_Video.py`: Python script for detecting oranges in a video.
 
 ## Description
